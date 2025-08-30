@@ -11,3 +11,7 @@ sky:
     access-key-id: LTAI5tEnqmNRSL8hTJuKrqq1
     access-key-secret: NMnMtlr3RYm1gVIDfMeyf8NFZhzsNk
     bucket-name: randytaylor
+  redis:
+    host: localhost
+    port: 6379
+    database: 0
